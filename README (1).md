@@ -39,7 +39,7 @@ How each layer supports equity:
 
 ## Platform partner
 
-We are in early, exploratory discussions with Altabeeb Healthcare, a healthcare technology company whose platform spans telemedicine, electronic medical records, hospital and clinic management, laboratory, pharmacy, analytics and patient engagement. Overview: [add the confirmed website link here].
+We are in early, exploratory discussions with Altabeeb Healthcare, a healthcare technology company whose platform spans telemedicine, electronic medical records, hospital and clinic management, laboratory, pharmacy, analytics and patient engagement. Overview: https://altabeeb.healthcare/.
 
 No agreement is in place, and nothing in this repository describes commercial terms.
 
@@ -62,13 +62,13 @@ flowchart TD
 
 ## Proof of concept already in use
 
-A guideline support tool, developed by [your name], is in active use at [hospital name] in Ghana. During prescribing and clinical audit it retrieves relevant passages from references such as the BNF and the Ghana Standard Treatment Guidelines. It shows how guideline support can work inside a real hospital workflow. The tool's code is not part of this repository.
+A guideline support tool, developed by Dr. Samuel Amoako(PharmD), is in active use at University of Cape Coast in Ghana. During prescribing and clinical audit it retrieves relevant passages from references such as the BNF and the Ghana Standard Treatment Guidelines. It shows how guideline support can work inside a real hospital workflow. The tool's code is not part of this repository.
 
 ## Team and roles
 
-- [Your name]: developer of the guideline support tool; lead on the Ghana side.
-- [Teammate name]: physician; clinical liaison. Connects patients and clinicians to the system, and advises on clinical safety, usability and local care pathways.
-
+- Dr(Pharm) Samuel Amoako: developer of the guideline support tool; lead on the Ghana side.
+- Dr(Med). Emmanuel Akuamoah: physician; clinical liaison. Connects patients and clinicians to the system, and advises on clinical safety, usability and local care pathways.
+- Dr(Pharm). Caleb Twumasi Appiah: Pharmacist; Pharmacy liaison. Connects patients and Pharmacy system to the current server and advises on clinical safety, and local care pathways.
 ## Ghana rollout plan
 
 ### Regulatory approvals

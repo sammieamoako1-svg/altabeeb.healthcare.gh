@@ -2,6 +2,7 @@
 
 A clinician-led project adapting an integrated digital health platform to Ghana, so that patients can reach care, receive the right medicine, and be treated according to current guidelines wherever they live.
 
+
 > Status: early-stage planning and proof of concept. The full platform has not been deployed in Ghana.
 
 ## The problem

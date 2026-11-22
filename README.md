@@ -1,4 +1,4 @@
-# Digital Health for Equitable Access to Medicine in Ghana
+# Digital Health for Equitable Access to Healthcare and Medicines in Ghana
 
 A clinician-led project adapting an integrated digital health platform to Ghana, so that patients can reach care, receive the right medicine, and be treated according to current guidelines wherever they live.
 
@@ -6,7 +6,7 @@ A clinician-led project adapting an integrated digital health platform to Ghana,
 
 ## The problem
 
-In Ghana, access to safe, appropriate medicine is limited by more than the medicines themselves. Patients in rural and underserved communities face long and costly journeys to care. Records are fragmented between facilities. Pharmacy stock is hard to see and plan around. Prescribing guidelines are not always at hand at the point of care. These gaps compound each other, so they are best addressed together..
+In Ghana, access to healthcare and safe medicine is limited by more than the medicines themselves. Patients in rural and underserved communities face long and costly journeys to care. Records are fragmented between facilities. Pharmacy stock is hard to see and plan around. Prescribing guidelines are not always at hand at the point of care. These gaps compound each other, so they are best addressed together..
 
 ## The approach
 

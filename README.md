@@ -1,12 +1,23 @@
 # Digital Health for Equitable Access to Healthcare and Medicines in Ghana
 
-A clinician-led project adapting an integrated digital health platform to Ghana, so that patients can reach care, receive the right medicine, and be treated according to current guidelines wherever they live.
+A multidisciplinary digital health initiative seeking to reduce geographical, financial and structural barriers to healthcare in Ghana through an integrated platform connecting patients, healthcare professionals, health facilities, laboratories and pharmacies.
 
-> Status: early-stage planning and proof of concept. The full platform has not been deployed in Ghana.
+The project places particular emphasis on rural and underserved communities, continuity of care, equitable access to essential medicines and evidence-informed clinical decision-making.
+
+
+> Status: early-stage planning and proof of concept. The full platform has not been fully deployed in Ghana.
 
 ## The problem
 
-In Ghana, access to healthcare and safe medicine is limited by more than the medicines themselves. Patients in rural and underserved communities face long and costly journeys to care. Records are fragmented between facilities. Pharmacy stock is hard to see and plan around. Prescribing guidelines are not always at hand at the point of care. These gaps compound each other, so they are best addressed together..
+Access to quality healthcare remains uneven across Ghana. For many individuals living in rural and underserved communities, geographical distance, transportation costs, limited healthcare infrastructure and shortages of healthcare professionals create substantial barriers to timely medical care.
+
+These challenges are compounded by fragmented patient records, limited coordination between healthcare facilities, difficulties accessing essential medicines and inconsistent availability of clinical guidelines at the point of care.
+
+Even when patients successfully access medical consultations, obtaining prescribed medications, completing laboratory investigations and maintaining continuity of treatment may present additional challenges.
+
+These interconnected barriers highlight the need for an integrated approach that addresses healthcare access, service coordination, pharmaceutical care and clinical quality simultaneously.
+
+This initiative presents an opportunity to strengthen existing healthcare systems and extend essential services beyond the physical boundaries of health facilities.
 
 ## The approach
 
@@ -66,8 +77,8 @@ A guideline support tool, developed by Dr. Samuel Amoako(PharmD), is in active u
 
 ## Team and roles
 
-- Dr(Pharm) Samuel Amoako: developer of the guideline support tool; lead on the Ghana side.
-- Dr(Med). Emmanuel Akuamoah: physician; clinical liaison. Connects patients and clinicians to the system, and advises on clinical safety, usability and local care pathways.
+- Dr(Pharm) Samuel Amoako: Co-founder and developer of the guideline support tool; lead on the Ghana side.
+- Dr(Med). Emmanuel Akuamoah: Co-founder and clinical liaison; Connects patients and clinicians to the system, and advises on clinical safety, usability and local care pathways.
 - Dr(Pharm). Caleb Twumasi Appiah: Pharmacist; Pharmacy liaison. Connects patients and Pharmacy system to the current server and advises on clinical safety, and local care pathways.
 ## Ghana rollout plan
 
